@@ -1,14 +1,14 @@
-Fall Detection System Simulation
+# Fall Detection System Simulation
 Project Goals
 The objective of your project is to create a real-time monitoring system that detects falls, potentially for use in healthcare or personal safety scenarios, particularly for the elderly or individuals with mobility issues.
 
-Significance of the Project
+# Significance of the Project
 This project is meaningful because it addresses a critical safety concern. Falls can lead to severe injuries, especially in older adults. An automated detection system can ensure prompt assistance, reducing the risk of serious complications and contributing significantly to the users' well-being and peace of mind.
 
-Installation and Usage Instructions
+# Installation and Usage Instructions
 To install and use this software, users need a Python environment. The script uses the tkinter library for the GUI, which is typically included in standard Python installations. Simply run the script in a Python environment to start the fall detection system. The GUI will display alerts whenever a fall is detected.
 
-Code Structure
+# Code Structure
 The script is structured as follows:
 
 Import necessary modules (tkinter, random, threading, time, datetime).
