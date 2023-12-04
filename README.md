@@ -14,10 +14,15 @@ Installation:
 - Prerequisites: Python environment with tkinter library (usually included in standard Python installations).
 - Website: https://www.jetbrains.com/pycharm/<br>
 - Running the Application: Execute the script in a Python environment.<br>
+1. Open Pycharm and click "Get from VCS"<br>
+   <img width="800" alt="Screenshot 2023-12-03 at 9 46 29 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/698defb3-cad7-4f8f-8727-e2112e34d506">
+
 - Usage:<br>
 On running the script, a GUI titled "Fall Detection System" appears.<br>
 The system automatically begins monitoring for falls.<br>
 In the event of a fall (simulated randomly in this version), an alert is displayed with the time of the incident.
+  <img width="1111" alt="Screenshot 2023-12-03 at 9 51 11 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/1241662b-9ad8-44cb-96cb-54713943179d">
+
 
 # Code Structure
 
