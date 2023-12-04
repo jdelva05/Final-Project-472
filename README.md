@@ -16,6 +16,7 @@ Installation:
 - Running the Application: Execute the script in a Python environment.<br>
 1. Open Pycharm and click "Get from VCS"<br>
    <img width="800" alt="Screenshot 2023-12-03 at 9 46 29 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/698defb3-cad7-4f8f-8727-e2112e34d506">
+   
  2. Copy this link: https://github.com/redbolt101/Final-Project-472.git, next paste in URl, then hit clone
     <img width="802" alt="Screenshot 2023-12-03 at 9 48 14 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/da5d62b4-e25b-4012-9584-4ab9ba2c5fd4">
     
