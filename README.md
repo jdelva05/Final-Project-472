@@ -1,4 +1,4 @@
-Fall Detection System Project Report
+# Fall Detection System Project Report
 
 1. Project Goals
 
