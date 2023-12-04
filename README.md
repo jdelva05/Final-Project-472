@@ -20,7 +20,7 @@ Installation:
  2. Copy this link: https://github.com/redbolt101/Final-Project-472.git, next paste in URl, then hit clone
     <img width="802" alt="Screenshot 2023-12-03 at 9 48 14 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/da5d62b4-e25b-4012-9584-4ab9ba2c5fd4">
     
-3. Once project open click on main.py file
+3. Once project open click on main.py file<br>
    <img width="379" alt="Screenshot 2023-12-03 at 9 49 06 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/6c37e6c8-c0a6-43c4-8026-3d2574c519f3">
 
 4. Then run hit the green triangle on the top to rum program
