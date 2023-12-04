@@ -56,7 +56,7 @@ Responsiveness: The GUI promptly displayed alerts post-detection.
    <img width="942" alt="Screenshot 2023-12-03 at 10 15 16 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/46e55008-224a-4ebf-8a20-a85b96aa1145">
 
 Accuracy: Timestamps in alerts matched the system's current time.
-   <img width="1126" alt="Screenshot 2023-12-03 at 10 12 51 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/7d0fe9af-cd6c-4597-8ace-75e0bdc54a07">
+   <img width="1127" alt="Screenshot 2023-12-03 at 10 17 11 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/ac1a3c81-5c26-4e9d-93a2-449af2dc0c6b">
 
 # Discussion and Conclusions
 
