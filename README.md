@@ -26,10 +26,6 @@ Installation:
 4. Then run hit the green triangle on the top to rum program
    <img width="1440" alt="Screenshot 2023-12-03 at 9 49 42 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/dad7505e-008b-47ac-94ab-7e5608b8e7a4">
 
-5. Finally the program will run displaying an alert with a log of time and date of fall
-   <img width="1111" alt="Screenshot 2023-12-03 at 9 51 11 PM" src="https://github.com/redbolt101/Final-Project-472/assets/132689188/d411f011-d79a-4133-9155-7f6cef59ee0f">
-
-
 - Usage:<br>
 On running the script, a GUI titled "Fall Detection System" appears.<br>
 The system automatically begins monitoring for falls.<br>
