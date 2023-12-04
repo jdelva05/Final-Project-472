@@ -37,12 +37,12 @@ In the event of a fall (simulated randomly in this version), an alert is display
 
 The script is organized into several key parts:
 
-Imports: Necessary Python modules like tkinter, random, threading, time, and datetime.<br>
-Main Function create_fall_detection_gui(): Sets up the GUI and the fall detection mechanism.<br>
-Initializes the main window.<br>
-Defines a function to display fall detection alerts.<br>
-Implements a background process to simulate continuous monitoring.<br>
-Initiates the GUI event loop.
+- Imports: Necessary Python modules like tkinter, random, threading, time, and datetime.<br>
+- Main Function create_fall_detection_gui(): Sets up the GUI and the fall detection mechanism.<br>
+- Initializes the main window.<br>
+- Defines a function to display fall detection alerts.<br>
+- Implements a background process to simulate continuous monitoring.<br>
+- Initiates the GUI event loop.
 
 # List of Functionalities and Test Results
 
