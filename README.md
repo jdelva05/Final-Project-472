@@ -11,10 +11,10 @@ Falls are a major health risk, especially for older adults, leading to severe in
 # Installation and Usage Instructions
 
 Installation:
-Prerequisites: Python environment with tkinter library (usually included in standard Python installations).
+- Prerequisites: Python environment with tkinter library (usually included in standard Python installations).
 - Website: https://www.jetbrains.com/pycharm/<br>
-Running the Application: Execute the script in a Python environment.<br>
-Usage:<br>
+- Running the Application: Execute the script in a Python environment.<br>
+- Usage:<br>
 On running the script, a GUI titled "Fall Detection System" appears.<br>
 The system automatically begins monitoring for falls.<br>
 In the event of a fall (simulated randomly in this version), an alert is displayed with the time of the incident.
